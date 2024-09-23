@@ -2,4 +2,7 @@ Data/sample_submission.csv
 Data/store.csv
 Data/test.csv
 Data/train.csv
+notebooks/test.csv
+notebooks/train.csv
+notebooks/store_sales.csv
 week4
